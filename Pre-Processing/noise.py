@@ -5,13 +5,13 @@ from tqdm import tqdm
 
 # Path dataset
 base_path_train = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\train\Healthy'
-# base_path_test = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\test\Healthy'
-# base_path_valid = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\valid\Healthy'
+base_path_test = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\test\Healthy'
+base_path_valid = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\valid\Healthy'
 
 # Output path untuk menyimpan gambar yang sudah diolah
 output_base_train = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\train\Healthy'
-# output_base_test = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\test\Healthy'
-# output_base_valid = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\valid\Healthy'
+output_base_test = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\test\Healthy'
+output_base_valid = r'D:\Documents\KULIAH\Semester 5\Studi Independen\Project Capstone\Program\dataset\valid\Healthy'
 
 # Fungsi untuk memastikan direktori output ada
 def ensure_dir(directory):
