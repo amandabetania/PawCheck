@@ -1,0 +1,26 @@
+{
+    "top_predictions": [
+      {
+        "label": "Blepharitis",
+        "score": 95.0
+      },
+      {
+        "label": "Conjunctivitis",
+        "score": 3.5
+      },
+      {
+        "label": "Entropion",
+        "score": 1.5
+      }
+    ],
+    "predicted_class": "Blepharitis",
+    "description": "Blepharitis is an inflammation of the eyelids that can affect one or both eyelids of a dog. Common symptoms include redness, swelling, itching, and discharge from the eye area. Blepharitis can cause discomfort and may affect the dog's quality of life if left untreated.",
+    "treatment": [
+      "Warm compress to reduce the risk of recurrence.",
+      "Trim the hair around the eyes to reduce fluid buildup.",
+      "Use baby shampoo to remove dirt that may clog the meibomian gland openings."
+    ],
+    "note": "Always consult with a veterinarian before administering any treatment to your dog. Proper diagnosis and treatment are crucial to ensure effective recovery and prevent further complications.",
+    "confidence": 95.0
+  }
+  
